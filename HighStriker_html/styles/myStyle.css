@@ -153,8 +153,16 @@ nav {
     text-align: right;
 }
 
-.popUp p {
+.popUp .gameHeadline {
+    display: block;
+    width: 250px;
     text-align: center;
+    height: auto;
+}
+
+.popUp div {
+    text-align: center;
+    width: 800px;
 }
 
 #toggleBg {
