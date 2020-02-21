@@ -28049,425 +28049,425 @@ p.nominalBounds = new cjs.Rectangle(0,0,203.4,672.3);
 
 	this.shape = new cjs.Shape();
 	this.shape.graphics.f("#FBDE04").s().p("Egy9AGHQgtAAggghQgggiABgvIAAnuQgBgvAgghQAggiAtABUAv6gB4A2BAB4QAtgBAgAiQAfAhABAvIAAHuQgBAvgfAiQggAhgtAAUgzfgCZgycACZg");
-	this.shape.setTransform(-0.0884,62.349,1.0395,1.0396);
+	this.shape.setTransform(-0.1003,62.3472,1.0395,1.0395);
 
 	this.instance = new lib.Path_1_26_2();
 	this.instance.parent = this;
-	this.instance.setTransform(329.6,107.75,1.0395,1.0396,0,0,0,15.8,12.3);
+	this.instance.setTransform(329.55,107.75,1.0395,1.0395,0,0,0,15.8,12.3);
 	this.instance.alpha = 0.1406;
 
 	this.shape_1 = new cjs.Shape();
 	this.shape_1.graphics.f("#FBC407").s().p("AEsGDQhwgThmgQQjFgejbgLQhYgFgag5QgJgRgBgVIAbnvQAAgIABgKQAEgWALgRQAjg2BiAKQCeARH7BUIAQACQASAEAMAHQAoAYghAvQghAvhTBSIhNBHIgKAVQgGAaAQAVQAbAhBXDbIADALQACAOgDALQgIAfgqAAIgNAAg");
-	this.shape_1.setTransform(360.8755,89.6653,1.0395,1.0396);
+	this.shape_1.setTransform(360.8529,89.6623,1.0395,1.0395);
 
 	this.instance_1 = new lib.Path_3_26_2();
 	this.instance_1.parent = this;
-	this.instance_1.setTransform(-329.8,107.85,1.0395,1.0396,0,0,0,15.8,11.9);
+	this.instance_1.setTransform(-329.8,107.9,1.0395,1.0395,0,0,0,15.8,12);
 	this.instance_1.alpha = 0.1406;
 
 	this.shape_2 = new cjs.Shape();
 	this.shape_2.graphics.f("#FAC307").s().p("AlqFkQgDgLACgOIADgLQBXjbAbghQAQgVgGgaIgKgVQgjgegqgpQhThSghgvQghgvAogYIAugNQH7hUCegRQBjgKAjA2QARAbgCAeIAaHeQAFAbgOAcQgaA5hYAFQjbALjFAeQhmAQhwATIgNAAQgrAAgHgfg");
-	this.shape_2.setTransform(-360.9677,89.6653,1.0395,1.0396);
+	this.shape_2.setTransform(-360.9691,89.6623,1.0395,1.0395);
 
 	this.shape_3 = new cjs.Shape();
 	this.shape_3.graphics.f("#FFFFFF").s().p("AgKAVQgEgEAFgDQAHgEACgKQABgGgEgIQgDgFAFgDQAEgDADAFQAIALgCAMQgEANgKAHIgDABQgDAAgCgDg");
-	this.shape_3.setTransform(-314.0767,242.116,1.0395,1.0396);
+	this.shape_3.setTransform(-314.0294,242.1063,1.0395,1.0395);
 
 	this.instance_2 = new lib.Path_1_25_1();
 	this.instance_2.parent = this;
-	this.instance_2.setTransform(-311.75,243.1,1.0395,1.0396,0,0,0,2.8,3.1);
+	this.instance_2.setTransform(-311.75,243.05,1.0395,1.0395,0,0,0,2.8,3.1);
 
 	this.instance_3 = new lib.Path_2_25_1();
 	this.instance_3.parent = this;
-	this.instance_3.setTransform(-316.6,241.65,1.0395,1.0396,0,0,0,5.7,6.1);
+	this.instance_3.setTransform(-316.6,241.7,1.0395,1.0395,0,0,0,5.7,6.2);
 
 	this.instance_4 = new lib.Path_3_25();
 	this.instance_4.parent = this;
-	this.instance_4.setTransform(-316.7,241.65,1.0395,1.0396,0,0,0,13.4,13.3);
+	this.instance_4.setTransform(-316.75,241.6,1.0395,1.0395,0,0,0,13.3,13.3);
 
 	this.shape_4 = new cjs.Shape();
 	this.shape_4.graphics.f("#FFFFFF").s().p("AgKAWQgDgFAFgDQAHgFABgIQACgHgEgIIgBAAQgDgEAFgEQAFgDADAFQAIAMgDALQgDANgLAHIgEABQgBAAgBAAQAAAAgBgBQAAAAAAAAQgBgBAAAAg");
-	this.shape_4.setTransform(-294.0806,273.1106,1.0395,1.0396);
+	this.shape_4.setTransform(-294.0339,273.0996,1.0395,1.0395);
 
 	this.instance_5 = new lib.Path_1_24_1();
 	this.instance_5.parent = this;
-	this.instance_5.setTransform(-291.75,274.05,1.0395,1.0396,0,0,0,2.9,3.1);
+	this.instance_5.setTransform(-291.75,274,1.0395,1.0395,0,0,0,2.9,3.1);
 
 	this.instance_6 = new lib.Path_2_24_1();
 	this.instance_6.parent = this;
-	this.instance_6.setTransform(-296.4,272.65,1.0395,1.0396,0,0,0,6.2,5.8);
+	this.instance_6.setTransform(-296.4,272.65,1.0395,1.0395,0,0,0,6.2,5.8);
 
 	this.instance_7 = new lib.Path_3_24();
 	this.instance_7.parent = this;
-	this.instance_7.setTransform(-296.4,272.7,1.0395,1.0396,0,0,0,13.8,13.4);
+	this.instance_7.setTransform(-296.4,272.7,1.0395,1.0395,0,0,0,13.8,13.4);
 
 	this.shape_5 = new cjs.Shape();
 	this.shape_5.graphics.f("#FFFFFF").s().p("AgGAYQgBAAAAAAQgBgBAAAAQgBAAAAgBQgBAAAAgBQgEgFAGgCQAHgFABgJQACgGgEgIIgBAAQgDgFAFgDQAEgDAEAFQAIALgDAMQgDANgLAHIgDABIgBAAg");
-	this.shape_5.setTransform(-256.0993,284.098,1.0395,1.0396);
+	this.shape_5.setTransform(-256.0538,284.0864,1.0395,1.0395);
 
 	this.instance_8 = new lib.Path_1_23_1();
 	this.instance_8.parent = this;
-	this.instance_8.setTransform(-253.75,285.05,1.0395,1.0396,0,0,0,3,2.7);
+	this.instance_8.setTransform(-253.75,285.05,1.0395,1.0395,0,0,0,3,2.7);
 
 	this.instance_9 = new lib.Path_2_23_1();
 	this.instance_9.parent = this;
-	this.instance_9.setTransform(-258.4,283.65,1.0395,1.0396,0,0,0,6.2,6.1);
+	this.instance_9.setTransform(-258.4,283.7,1.0395,1.0395,0,0,0,6.2,6.2);
 
 	this.instance_10 = new lib.Path_3_23();
 	this.instance_10.parent = this;
-	this.instance_10.setTransform(-258.45,283.75,1.0395,1.0396,0,0,0,13.7,13.5);
+	this.instance_10.setTransform(-258.45,283.7,1.0395,1.0395,0,0,0,13.7,13.5);
 
 	this.shape_6 = new cjs.Shape();
 	this.shape_6.graphics.f("#FFFFFF").s().p("AgKAVQgEgEAFgDQAIgGABgIQABgHgEgHQgDgFAFgDQAEgDADAFQAIALgCAMQgEANgKAHIgDABQgDAAgCgDg");
-	this.shape_6.setTransform(-218.7541,284.1019,1.0395,1.0396);
+	this.shape_6.setTransform(-218.7096,284.0903,1.0395,1.0395);
 
 	this.instance_11 = new lib.Path_1_22_1();
 	this.instance_11.parent = this;
-	this.instance_11.setTransform(-216.4,285.05,1.0395,1.0396,0,0,0,2.6,2.7);
+	this.instance_11.setTransform(-216.45,285.05,1.0395,1.0395,0,0,0,2.5,2.7);
 
 	this.instance_12 = new lib.Path_2_22_1();
 	this.instance_12.parent = this;
-	this.instance_12.setTransform(-221.05,283.65,1.0395,1.0396,0,0,0,5.9,6.1);
+	this.instance_12.setTransform(-221.1,283.7,1.0395,1.0395,0,0,0,5.8,6.2);
 
 	this.instance_13 = new lib.Path_3_22();
 	this.instance_13.parent = this;
-	this.instance_13.setTransform(-221.05,283.75,1.0395,1.0396,0,0,0,14,13.5);
+	this.instance_13.setTransform(-221.05,283.7,1.0395,1.0395,0,0,0,14,13.5);
 
 	this.shape_7 = new cjs.Shape();
 	this.shape_7.graphics.f("#FFFFFF").s().p("AgKAVQgEgFAGgCQAHgFABgJQACgGgEgIQgEgFAFgDQAEgDAEAFQAIALgDAMQgDANgKAHIgEABQgCAAgDgDg");
-	this.shape_7.setTransform(-181.4109,284.1019,1.0395,1.0396);
+	this.shape_7.setTransform(-181.3675,284.0903,1.0395,1.0395);
 
 	this.instance_14 = new lib.Path_1_21_1();
 	this.instance_14.parent = this;
-	this.instance_14.setTransform(-179.1,285.05,1.0395,1.0396,0,0,0,2.9,2.7);
+	this.instance_14.setTransform(-179.1,285.05,1.0395,1.0395,0,0,0,2.9,2.7);
 
 	this.instance_15 = new lib.Path_2_21_1();
 	this.instance_15.parent = this;
-	this.instance_15.setTransform(-183.75,283.65,1.0395,1.0396,0,0,0,6.1,6.1);
+	this.instance_15.setTransform(-183.75,283.7,1.0395,1.0395,0,0,0,6.1,6.2);
 
 	this.instance_16 = new lib.Path_3_21();
 	this.instance_16.parent = this;
-	this.instance_16.setTransform(-183.7,283.75,1.0395,1.0396,0,0,0,13.7,13.5);
+	this.instance_16.setTransform(-183.7,283.7,1.0395,1.0395,0,0,0,13.7,13.5);
 
 	this.shape_8 = new cjs.Shape();
 	this.shape_8.graphics.f("#FFFFFF").s().p("AgKAVQgDgFAFgCQAHgGABgIQABgHgEgHQgCgFAEgDQAEgDADAFQAIALgCAMQgDAMgLAIIgDABQgDAAgCgDg");
-	this.shape_8.setTransform(-144.0492,284.1144,1.0395,1.0396);
+	this.shape_8.setTransform(-144.0069,284.1029,1.0395,1.0395);
 
 	this.instance_17 = new lib.Path_1_20_1();
 	this.instance_17.parent = this;
-	this.instance_17.setTransform(-141.65,285.05,1.0395,1.0396,0,0,0,3,2.7);
+	this.instance_17.setTransform(-141.65,285.05,1.0395,1.0395,0,0,0,3,2.7);
 
 	this.instance_18 = new lib.Path_2_20_1();
 	this.instance_18.parent = this;
-	this.instance_18.setTransform(-146.4,283.65,1.0395,1.0396,0,0,0,6.2,6.1);
+	this.instance_18.setTransform(-146.4,283.7,1.0395,1.0395,0,0,0,6.2,6.2);
 
 	this.instance_19 = new lib.Path_3_20();
 	this.instance_19.parent = this;
-	this.instance_19.setTransform(-146.35,283.75,1.0395,1.0396,0,0,0,14.3,13.5);
+	this.instance_19.setTransform(-146.4,283.7,1.0395,1.0395,0,0,0,14.3,13.5);
 
 	this.shape_9 = new cjs.Shape();
 	this.shape_9.graphics.f("#FFFFFF").s().p("AgKAVQgEgEAFgDQAIgGABgIQABgHgEgHQgDgFAFgDQAEgDADAFQAIALgCAMQgEANgKAHIgDABQgDAAgCgDg");
-	this.shape_9.setTransform(-106.6954,284.1019,1.0395,1.0396);
+	this.shape_9.setTransform(-106.6543,284.0903,1.0395,1.0395);
 
 	this.instance_20 = new lib.Path_1_19_1();
 	this.instance_20.parent = this;
-	this.instance_20.setTransform(-104.35,285.05,1.0395,1.0396,0,0,0,3.1,2.7);
+	this.instance_20.setTransform(-104.35,285.05,1.0395,1.0395,0,0,0,3.1,2.7);
 
 	this.instance_21 = new lib.Path_2_19_1();
 	this.instance_21.parent = this;
-	this.instance_21.setTransform(-109.35,283.65,1.0395,1.0396,0,0,0,5.9,6.1);
+	this.instance_21.setTransform(-109.45,283.7,1.0395,1.0395,0,0,0,5.8,6.2);
 
 	this.instance_22 = new lib.Path_3_19();
 	this.instance_22.parent = this;
-	this.instance_22.setTransform(-109.4,283.75,1.0395,1.0396,0,0,0,13.6,13.5);
+	this.instance_22.setTransform(-109.4,283.7,1.0395,1.0395,0,0,0,13.6,13.5);
 
 	this.shape_10 = new cjs.Shape();
 	this.shape_10.graphics.f("#FFFFFF").s().p("AgGAYQgBAAAAAAQgBgBAAAAQgBAAAAgBQgBAAAAAAQgEgFAGgDQAHgFABgIQACgGgEgIQgEgGAFgCQAEgEAEAFQAIALgDAMQgDAOgLAGIgDABIgBAAg");
-	this.shape_10.setTransform(-69.3522,284.0854,1.0395,1.0396);
+	this.shape_10.setTransform(-69.3122,284.0738,1.0395,1.0395);
 
 	this.instance_23 = new lib.Path_1_18_1();
 	this.instance_23.parent = this;
-	this.instance_23.setTransform(-67,285.05,1.0395,1.0396,0,0,0,2.9,2.7);
+	this.instance_23.setTransform(-67,285.05,1.0395,1.0395,0,0,0,2.9,2.7);
 
 	this.instance_24 = new lib.Path_2_18_1();
 	this.instance_24.parent = this;
-	this.instance_24.setTransform(-71.6,283.65,1.0395,1.0396,0,0,0,6.2,6.1);
+	this.instance_24.setTransform(-71.6,283.7,1.0395,1.0395,0,0,0,6.2,6.2);
 
 	this.instance_25 = new lib.Path_3_18();
 	this.instance_25.parent = this;
-	this.instance_25.setTransform(-71.7,283.75,1.0395,1.0396,0,0,0,14.3,13.5);
+	this.instance_25.setTransform(-71.7,283.7,1.0395,1.0395,0,0,0,14.3,13.5);
 
 	this.shape_11 = new cjs.Shape();
 	this.shape_11.graphics.f("#FFFFFF").s().p("AgKAVQgEgEAFgDQAIgGABgIQABgHgEgHQgDgFAFgDQAEgDADAFQAIALgCAMQgEANgKAHIgDABQgDAAgCgDg");
-	this.shape_11.setTransform(-32.007,284.1019,1.0395,1.0396);
+	this.shape_11.setTransform(-31.968,284.0903,1.0395,1.0395);
 
 	this.instance_26 = new lib.Path_1_17_1();
 	this.instance_26.parent = this;
-	this.instance_26.setTransform(-29.6,285.05,1.0395,1.0396,0,0,0,3.1,2.7);
+	this.instance_26.setTransform(-29.6,285.05,1.0395,1.0395,0,0,0,3.1,2.7);
 
 	this.instance_27 = new lib.Path_2_17_1();
 	this.instance_27.parent = this;
-	this.instance_27.setTransform(-34.6,283.65,1.0395,1.0396,0,0,0,5.9,6.1);
+	this.instance_27.setTransform(-34.7,283.7,1.0395,1.0395,0,0,0,5.8,6.2);
 
 	this.instance_28 = new lib.Path_3_17();
 	this.instance_28.parent = this;
-	this.instance_28.setTransform(-34.6,283.75,1.0395,1.0396,0,0,0,13.6,13.5);
+	this.instance_28.setTransform(-34.7,283.7,1.0395,1.0395,0,0,0,13.5,13.5);
 
 	this.shape_12 = new cjs.Shape();
 	this.shape_12.graphics.f("#FFFFFF").s().p("AgKAVQgEgFAGgCQAHgFABgJQACgGgEgIQgEgFAFgDQAEgDAEAFQAIALgDAMQgDANgKAHIgEABQgCAAgDgDg");
-	this.shape_12.setTransform(5.3362,284.1019,1.0395,1.0396);
+	this.shape_12.setTransform(5.3741,284.0903,1.0395,1.0395);
 
 	this.instance_29 = new lib.Path_1_16_1();
 	this.instance_29.parent = this;
-	this.instance_29.setTransform(7.3,285.05,1.0395,1.0396,0,0,0,2.9,2.7);
+	this.instance_29.setTransform(7.3,285.05,1.0395,1.0395,0,0,0,3,2.7);
 
 	this.instance_30 = new lib.Path_2_16_1();
 	this.instance_30.parent = this;
-	this.instance_30.setTransform(3.05,283.65,1.0395,1.0396,0,0,0,6.2,6.1);
+	this.instance_30.setTransform(3.05,283.7,1.0395,1.0395,0,0,0,6.2,6.2);
 
 	this.instance_31 = new lib.Path_3_16();
 	this.instance_31.parent = this;
-	this.instance_31.setTransform(3,283.75,1.0395,1.0396,0,0,0,14.3,13.5);
+	this.instance_31.setTransform(3,283.7,1.0395,1.0395,0,0,0,14.3,13.5);
 
 	this.shape_13 = new cjs.Shape();
 	this.shape_13.graphics.f("#FFFFFF").s().p("AgKAVQgDgFAFgCQAHgGABgIQABgHgEgHQgDgFAFgDQAEgDAEAFQAHALgCAMQgDAMgLAIIgDABQgDAAgCgDg");
-	this.shape_13.setTransform(42.6994,284.1144,1.0395,1.0396);
+	this.shape_13.setTransform(42.7362,284.1029,1.0395,1.0395);
 
 	this.instance_32 = new lib.Path_1_15_2();
 	this.instance_32.parent = this;
-	this.instance_32.setTransform(44.85,285.05,1.0395,1.0396,0,0,0,3.1,2.7);
+	this.instance_32.setTransform(44.8,285.05,1.0395,1.0395,0,0,0,3.1,2.7);
 
 	this.instance_33 = new lib.Path_2_15_1();
 	this.instance_33.parent = this;
-	this.instance_33.setTransform(40.05,283.65,1.0395,1.0396,0,0,0,6.2,6.1);
+	this.instance_33.setTransform(40,283.7,1.0395,1.0395,0,0,0,6.2,6.2);
 
 	this.instance_34 = new lib.Path_3_15();
 	this.instance_34.parent = this;
-	this.instance_34.setTransform(40,283.75,1.0395,1.0396,0,0,0,13.9,13.5);
+	this.instance_34.setTransform(39.95,283.7,1.0395,1.0395,0,0,0,13.9,13.5);
 
 	this.shape_14 = new cjs.Shape();
 	this.shape_14.graphics.f("#FFFFFF").s().p("AgKAVQgEgEAFgDQAIgGABgIQABgHgEgHQgDgFAFgDQAEgDADAFQAIALgCAMQgEANgKAHIgDABQgDAAgCgDg");
-	this.shape_14.setTransform(80.0517,284.1019,1.0395,1.0396);
+	this.shape_14.setTransform(80.0873,284.0903,1.0395,1.0395);
 
 	this.instance_35 = new lib.Path_1_14_2();
 	this.instance_35.parent = this;
-	this.instance_35.setTransform(82.05,285.05,1.0395,1.0396,0,0,0,2.9,2.7);
+	this.instance_35.setTransform(82.05,285.05,1.0395,1.0395,0,0,0,3,2.7);
 
 	this.instance_36 = new lib.Path_2_14_1();
 	this.instance_36.parent = this;
-	this.instance_36.setTransform(77.8,283.65,1.0395,1.0396,0,0,0,6.8,6.1);
+	this.instance_36.setTransform(77.75,283.7,1.0395,1.0395,0,0,0,6.8,6.2);
 
 	this.instance_37 = new lib.Path_3_14();
 	this.instance_37.parent = this;
-	this.instance_37.setTransform(77.75,283.75,1.0395,1.0396,0,0,0,14.5,13.5);
+	this.instance_37.setTransform(77.85,283.7,1.0395,1.0395,0,0,0,14.6,13.5);
 
 	this.shape_15 = new cjs.Shape();
 	this.shape_15.graphics.f("#FFFFFF").s().p("AgGAYQgBAAAAAAQgBgBAAAAQgBAAAAgBQgBAAAAAAQgEgFAGgDQAHgFABgIQACgGgEgIQgEgGAFgCQAEgEAEAFQAIALgDAMQgDAOgLAGIgDABIgBAAg");
-	this.shape_15.setTransform(117.3948,284.0854,1.0395,1.0396);
+	this.shape_15.setTransform(117.4294,284.0738,1.0395,1.0395);
 
 	this.instance_38 = new lib.Path_1_13_2();
 	this.instance_38.parent = this;
-	this.instance_38.setTransform(119.6,285.05,1.0395,1.0396,0,0,0,3.1,2.7);
+	this.instance_38.setTransform(119.55,285.05,1.0395,1.0395,0,0,0,3.1,2.7);
 
 	this.instance_39 = new lib.Path_2_13_1();
 	this.instance_39.parent = this;
-	this.instance_39.setTransform(114.8,283.65,1.0395,1.0396,0,0,0,6.2,6.1);
+	this.instance_39.setTransform(114.75,283.7,1.0395,1.0395,0,0,0,6.2,6.2);
 
 	this.instance_40 = new lib.Path_3_13();
 	this.instance_40.parent = this;
-	this.instance_40.setTransform(114.8,283.75,1.0395,1.0396,0,0,0,14,13.5);
+	this.instance_40.setTransform(114.75,283.7,1.0395,1.0395,0,0,0,14,13.5);
 
 	this.shape_16 = new cjs.Shape();
 	this.shape_16.graphics.f("#FFFFFF").s().p("AgKAVQgEgEAFgDQAIgGABgIQABgHgEgHQgDgFAFgDQAEgDADAFQAIALgCAMQgEANgKAHIgDABQgDAAgCgDg");
-	this.shape_16.setTransform(154.7401,284.1144,1.0395,1.0396);
+	this.shape_16.setTransform(154.7736,284.1029,1.0395,1.0395);
 
 	this.instance_41 = new lib.Path_1_12_2();
 	this.instance_41.parent = this;
-	this.instance_41.setTransform(156.8,285.05,1.0395,1.0396,0,0,0,3,2.7);
+	this.instance_41.setTransform(156.7,285.05,1.0395,1.0395,0,0,0,3,2.7);
 
 	this.instance_42 = new lib.Path_2_12_1();
 	this.instance_42.parent = this;
-	this.instance_42.setTransform(152.45,283.65,1.0395,1.0396,0,0,0,6.8,6.1);
+	this.instance_42.setTransform(152.5,283.7,1.0395,1.0395,0,0,0,6.9,6.2);
 
 	this.instance_43 = new lib.Path_3_12();
 	this.instance_43.parent = this;
-	this.instance_43.setTransform(152.5,283.75,1.0395,1.0396,0,0,0,14.5,13.5);
+	this.instance_43.setTransform(152.45,283.7,1.0395,1.0395,0,0,0,14.5,13.5);
 
 	this.shape_17 = new cjs.Shape();
 	this.shape_17.graphics.f("#FFFFFF").s().p("AgKAVQgEgEAFgDQAHgFACgJQABgGgEgIQgDgFAFgDQAEgDADAFQAIALgCAMQgEANgKAHIgDABQgDAAgCgDg");
-	this.shape_17.setTransform(192.1103,284.1019,1.0395,1.0396);
+	this.shape_17.setTransform(192.1427,284.0903,1.0395,1.0395);
 
 	this.instance_44 = new lib.Path_1_11_2();
 	this.instance_44.parent = this;
-	this.instance_44.setTransform(194.3,285.05,1.0395,1.0396,0,0,0,3.1,2.7);
+	this.instance_44.setTransform(194.25,285.05,1.0395,1.0395,0,0,0,3.1,2.7);
 
 	this.instance_45 = new lib.Path_2_11_1();
 	this.instance_45.parent = this;
-	this.instance_45.setTransform(189.5,283.65,1.0395,1.0396,0,0,0,6.2,6.1);
+	this.instance_45.setTransform(189.45,283.7,1.0395,1.0395,0,0,0,6.2,6.2);
 
 	this.instance_46 = new lib.Path_3_11();
 	this.instance_46.parent = this;
-	this.instance_46.setTransform(189.5,283.75,1.0395,1.0396,0,0,0,14,13.5);
+	this.instance_46.setTransform(189.45,283.7,1.0395,1.0395,0,0,0,14,13.5);
 
 	this.shape_18 = new cjs.Shape();
 	this.shape_18.graphics.f("#FFFFFF").s().p("AgKAVQgDgFAFgCQAHgGABgIQABgHgEgHQgDgFAFgDQAEgDAEAFQAIAMgDALQgDAMgLAIIgDABQgDAAgCgDg");
-	this.shape_18.setTransform(229.4565,284.1144,1.0395,1.0396);
+	this.shape_18.setTransform(229.4878,284.1029,1.0395,1.0395);
 
 	this.instance_47 = new lib.Path_1_10_2();
 	this.instance_47.parent = this;
-	this.instance_47.setTransform(231.55,285.05,1.0395,1.0396,0,0,0,3.1,2.7);
+	this.instance_47.setTransform(231.45,285.05,1.0395,1.0395,0,0,0,3.1,2.7);
 
 	this.instance_48 = new lib.Path_2_10_1();
 	this.instance_48.parent = this;
-	this.instance_48.setTransform(227.25,283.65,1.0395,1.0396,0,0,0,6.8,6.1);
+	this.instance_48.setTransform(227.2,283.7,1.0395,1.0395,0,0,0,6.8,6.2);
 
 	this.instance_49 = new lib.Path_3_10_1();
 	this.instance_49.parent = this;
-	this.instance_49.setTransform(227.25,283.75,1.0395,1.0396,0,0,0,14.5,13.5);
+	this.instance_49.setTransform(227.2,283.7,1.0395,1.0395,0,0,0,14.5,13.5);
 
 	this.shape_19 = new cjs.Shape();
 	this.shape_19.graphics.f("#FFFFFF").s().p("AgKAVQgEgEAFgDQAIgGABgIQABgHgEgHQgDgFAFgDQAEgDADAFQAIALgCAMQgEANgKAHIgDABQgDAAgCgDg");
-	this.shape_19.setTransform(266.7987,284.1019,1.0395,1.0396);
+	this.shape_19.setTransform(266.8289,284.0903,1.0395,1.0395);
 
 	this.instance_50 = new lib.Path_1_9_2();
 	this.instance_50.parent = this;
-	this.instance_50.setTransform(269,285.05,1.0395,1.0396,0,0,0,3.1,2.7);
+	this.instance_50.setTransform(268.95,285.05,1.0395,1.0395,0,0,0,3.1,2.7);
 
 	this.instance_51 = new lib.Path_2_9_1();
 	this.instance_51.parent = this;
-	this.instance_51.setTransform(264.25,283.65,1.0395,1.0396,0,0,0,6.2,6.1);
+	this.instance_51.setTransform(264.2,283.7,1.0395,1.0395,0,0,0,6.2,6.2);
 
 	this.instance_52 = new lib.Path_3_9_1();
 	this.instance_52.parent = this;
-	this.instance_52.setTransform(264.25,283.75,1.0395,1.0396,0,0,0,14,13.5);
+	this.instance_52.setTransform(264.2,283.7,1.0395,1.0395,0,0,0,14,13.5);
 
 	this.shape_20 = new cjs.Shape();
 	this.shape_20.graphics.f("#FFFFFF").s().p("AgKAWQgDgGAFgCQAHgFABgIQACgHgEgIQgEgEAFgEQAFgDADAFQAIAMgDALQgDANgLAHIgEABQgBAAgBAAQAAAAgBgBQAAAAAAAAQgBgBAAAAg");
-	this.shape_20.setTransform(299.9965,271.8632,1.0395,1.0396);
+	this.shape_20.setTransform(300.0257,271.8521,1.0395,1.0395);
 
 	this.instance_53 = new lib.Path_1_8_2();
 	this.instance_53.parent = this;
-	this.instance_53.setTransform(302.05,272.85,1.0395,1.0396,0,0,0,3.1,3.1);
+	this.instance_53.setTransform(302,272.8,1.0395,1.0395,0,0,0,3.1,3.1);
 
 	this.instance_54 = new lib.Path_2_8_1();
 	this.instance_54.parent = this;
-	this.instance_54.setTransform(297.8,271.45,1.0395,1.0396,0,0,0,6.7,5.9);
+	this.instance_54.setTransform(297.75,271.45,1.0395,1.0395,0,0,0,6.7,5.9);
 
 	this.instance_55 = new lib.Path_3_8_1();
 	this.instance_55.parent = this;
-	this.instance_55.setTransform(297.7,271.4,1.0395,1.0396,0,0,0,14.3,13.3);
+	this.instance_55.setTransform(297.75,271.35,1.0395,1.0395,0,0,0,14.4,13.3);
 
 	this.shape_21 = new cjs.Shape();
 	this.shape_21.graphics.f("#FFFFFF").s().p("AgKAVQgEgEAFgDQAIgFABgJQABgHgEgHQgDgFAFgDQAEgDADAFQAIALgCAMQgEANgKAHIgDABQgDAAgCgDg");
-	this.shape_21.setTransform(318.3062,241.8561,1.0395,1.0396);
+	this.shape_21.setTransform(318.3349,241.8464,1.0395,1.0395);
 
 	this.instance_56 = new lib.Path_1_7_2();
 	this.instance_56.parent = this;
-	this.instance_56.setTransform(320.35,242.85,1.0395,1.0396,0,0,0,3.1,3.1);
+	this.instance_56.setTransform(320.3,242.8,1.0395,1.0395,0,0,0,3.1,3.1);
 
 	this.instance_57 = new lib.Path_2_7_1();
 	this.instance_57.parent = this;
-	this.instance_57.setTransform(316.05,241.4,1.0395,1.0396,0,0,0,6.6,5.9);
+	this.instance_57.setTransform(316.1,241.4,1.0395,1.0395,0,0,0,6.7,5.9);
 
 	this.instance_58 = new lib.Path_3_7_1();
 	this.instance_58.parent = this;
-	this.instance_58.setTransform(316.05,241.5,1.0395,1.0396,0,0,0,14.3,13.5);
+	this.instance_58.setTransform(316,241.45,1.0395,1.0395,0,0,0,14.3,13.5);
 
 	this.instance_59 = new lib.Path_3_3_4();
 	this.instance_59.parent = this;
-	this.instance_59.setTransform(-318.4,204.35,0.6418,0.6418,0,0,0,14.5,14);
+	this.instance_59.setTransform(-318.4,204.35,0.6417,0.6417,0,0,0,14.5,14.1);
 
 	this.shape_22 = new cjs.Shape();
 	this.shape_22.graphics.f("#FFFFFF").s().p("AgKAWQgDgFAFgDQAHgFABgIQACgHgEgIIgBAAQgDgEAFgEQAFgDADAFQAIAMgDALQgDANgLAHIgEABQgBAAgBAAQAAAAgBgBQAAAAAAAAQgBgBAAAAg");
-	this.shape_22.setTransform(-316.0661,204.8111,1.0395,1.0396);
+	this.shape_22.setTransform(-316.0188,204.8031,1.0395,1.0395);
 
 	this.instance_60 = new lib.Path_1_6_2();
 	this.instance_60.parent = this;
-	this.instance_60.setTransform(-314,205.8,1.0395,1.0396,0,0,0,2.3,3.1);
+	this.instance_60.setTransform(-314.05,205.9,1.0395,1.0395,0,0,0,2.2,3.2);
 
 	this.instance_61 = new lib.Path_2_6_2();
 	this.instance_61.parent = this;
-	this.instance_61.setTransform(-318.4,204.4,1.0395,1.0396,0,0,0,6.2,6.2);
+	this.instance_61.setTransform(-318.4,204.35,1.0395,1.0395,0,0,0,6.2,6.2);
 
 	this.instance_62 = new lib.Path_3_3_4();
 	this.instance_62.parent = this;
-	this.instance_62.setTransform(-318.4,169.55,0.6418,0.6418,0,0,0,14.5,13.7);
+	this.instance_62.setTransform(-318.4,169.55,0.6417,0.6417,0,0,0,14.5,13.7);
 
 	this.shape_23 = new cjs.Shape();
 	this.shape_23.graphics.f("#FFFFFF").s().p("AgKAWQgDgFAFgDQAHgFABgIQACgHgEgIIgBAAQgDgEAFgEQAFgDADAFQAIAMgDALQgDANgLAHIgEABQgBAAgBAAQAAAAgBgBQAAAAAAAAQgBgBAAAAg");
-	this.shape_23.setTransform(-316.0661,169.9857,1.0395,1.0396);
+	this.shape_23.setTransform(-316.0188,169.9791,1.0395,1.0395);
 
 	this.instance_63 = new lib.Path_1_5_2();
 	this.instance_63.parent = this;
-	this.instance_63.setTransform(-314,171,1.0395,1.0396,0,0,0,2.3,3.1);
+	this.instance_63.setTransform(-314.05,170.95,1.0395,1.0395,0,0,0,2.2,3.1);
 
 	this.instance_64 = new lib.Path_2_5_2();
 	this.instance_64.parent = this;
-	this.instance_64.setTransform(-318.4,169.6,1.0395,1.0396,0,0,0,6.2,6);
+	this.instance_64.setTransform(-318.4,169.6,1.0395,1.0395,0,0,0,6.2,6);
 
 	this.shape_24 = new cjs.Shape();
 	this.shape_24.graphics.f("#FFFFFF").s().p("AgKAWQgDgFAFgDQAHgFABgIQACgHgEgIIgBAAQgDgFAFgCQAEgEAEAFQAIAMgDALQgDANgLAHIgEABQgBAAgBAAQAAAAgBgBQAAAAAAgBQgBAAAAAAg");
-	this.shape_24.setTransform(-316.0661,136.0447,1.0395,1.0396);
+	this.shape_24.setTransform(-316.0188,136.0396,1.0395,1.0395);
 
 	this.instance_65 = new lib.Path_1_4_2();
 	this.instance_65.parent = this;
-	this.instance_65.setTransform(-314,136.95,1.0395,1.0396,0,0,0,2.3,3);
+	this.instance_65.setTransform(-314.05,137,1.0395,1.0395,0,0,0,2.2,3.1);
 
 	this.instance_66 = new lib.Path_2_4_2();
 	this.instance_66.parent = this;
-	this.instance_66.setTransform(-318.4,135.3,1.0395,1.0396,0,0,0,6.2,5.7);
+	this.instance_66.setTransform(-318.4,135.3,1.0395,1.0395,0,0,0,6.2,5.7);
 
 	this.instance_67 = new lib.Path_3_4_4();
 	this.instance_67.parent = this;
-	this.instance_67.setTransform(-318.4,135.45,1.0395,1.0396,0,0,0,14,13.2);
+	this.instance_67.setTransform(-318.4,135.55,1.0395,1.0395,0,0,0,14,13.3);
 
 	this.shape_25 = new cjs.Shape();
 	this.shape_25.graphics.f("#FFFFFF").s().p("AgKAWQgDgEAFgEQAIgFAAgIQACgIgEgHQgEgEAFgEQAFgDADAFQAHALgCAMQgDANgKAHIgEABQgDAAgCgCg");
-	this.shape_25.setTransform(320.792,204.8091,1.0395,1.0396);
+	this.shape_25.setTransform(320.8206,204.8011,1.0395,1.0395);
 
 	this.instance_68 = new lib.Path_1_2_2();
 	this.instance_68.parent = this;
-	this.instance_68.setTransform(322.9,205.8,1.0395,1.0396,0,0,0,3.1,3.1);
+	this.instance_68.setTransform(322.85,205.9,1.0395,1.0395,0,0,0,3.1,3.2);
 
 	this.instance_69 = new lib.Path_2_2_2();
 	this.instance_69.parent = this;
-	this.instance_69.setTransform(318.5,204.4,1.0395,1.0396,0,0,0,6.5,6.2);
+	this.instance_69.setTransform(318.45,204.35,1.0395,1.0395,0,0,0,6.5,6.2);
 
 	this.instance_70 = new lib.Path_3_2_1();
 	this.instance_70.parent = this;
-	this.instance_70.setTransform(318.6,204.4,1.0395,1.0396,0,0,0,14.4,13.1);
+	this.instance_70.setTransform(318.65,204.4,1.0395,1.0395,0,0,0,14.5,13.1);
 
 	this.shape_26 = new cjs.Shape();
 	this.shape_26.graphics.f("#FFFFFF").s().p("AgKAWQgDgEAFgEQAIgFAAgIQACgIgEgHQgEgEAFgEQAFgDADAFQAHALgCAMQgDANgKAHIgEABQgDAAgCgCg");
-	this.shape_26.setTransform(320.792,169.9837,1.0395,1.0396);
+	this.shape_26.setTransform(320.8206,169.9771,1.0395,1.0395);
 
 	this.instance_71 = new lib.Path_1_1_3();
 	this.instance_71.parent = this;
-	this.instance_71.setTransform(322.9,171,1.0395,1.0396,0,0,0,3.1,3.1);
+	this.instance_71.setTransform(322.85,170.95,1.0395,1.0395,0,0,0,3.1,3.1);
 
 	this.instance_72 = new lib.Path_2_1_2();
 	this.instance_72.parent = this;
-	this.instance_72.setTransform(318.5,169.6,1.0395,1.0396,0,0,0,6.5,6);
+	this.instance_72.setTransform(318.45,169.6,1.0395,1.0395,0,0,0,6.5,6);
 
 	this.instance_73 = new lib.Path_3_1_1();
 	this.instance_73.parent = this;
-	this.instance_73.setTransform(318.6,169.55,1.0395,1.0396,0,0,0,14.4,13.3);
+	this.instance_73.setTransform(318.65,169.5,1.0395,1.0395,0,0,0,14.5,13.3);
 
 	this.shape_27 = new cjs.Shape();
 	this.shape_27.graphics.f("#FFFFFF").s().p("AgKAVQgEgEAFgEQAIgFABgIQABgIgEgGQgDgFAFgDQAEgDADAFQAIALgCALQgDANgLAIIgDABQgDAAgCgDg");
-	this.shape_27.setTransform(320.801,136.0553,1.0395,1.0396);
+	this.shape_27.setTransform(320.8296,136.0503,1.0395,1.0395);
 
 	this.instance_74 = new lib.Path_1_0_2();
 	this.instance_74.parent = this;
-	this.instance_74.setTransform(322.9,136.95,1.0395,1.0396,0,0,0,3.1,3);
+	this.instance_74.setTransform(322.85,137,1.0395,1.0395,0,0,0,3.1,3.1);
 
 	this.instance_75 = new lib.Path_2_0_2();
 	this.instance_75.parent = this;
-	this.instance_75.setTransform(318.5,135.3,1.0395,1.0396,0,0,0,6.5,5.7);
+	this.instance_75.setTransform(318.45,135.3,1.0395,1.0395,0,0,0,6.5,5.7);
 
 	this.instance_76 = new lib.Path_3_0();
 	this.instance_76.parent = this;
-	this.instance_76.setTransform(318.6,135.45,1.0395,1.0396,0,0,0,14.4,13.2);
+	this.instance_76.setTransform(318.65,135.55,1.0395,1.0395,0,0,0,14.5,13.3);
 
 	this.shape_28 = new cjs.Shape();
 	this.shape_28.graphics.f("#FFFFFF").s().p("EgmdAPjQgyAAgygLQhggVhUg/IAAgBQgagTgWgWIgBAAQhLhKgshiQgdhDgOhKQgJg0AAg5IAA2WMBcjAAAIAAWWQAAA0gIAwQgNBSgjBLQgnBVg9BAQgbAdgiAaQhDA0hOAZQhCAVhIAAg");
@@ -28491,7 +28491,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,203.4,672.3);
 
 	this.shape_33 = new cjs.Shape();
 	this.shape_33.graphics.f("#F7482B").s().p("AhbDuIAAnbIC3AAIAAHbg");
-	this.shape_33.setTransform(-250.4525,24.7417,1.0395,1.0396);
+	this.shape_33.setTransform(-250.4574,24.7406,1.0395,1.0395);
 
 	this.shape_34 = new cjs.Shape();
 	this.shape_34.graphics.f("#FC4C4C").s().p("AhODuIAAnbICdAAIAAHbg");
@@ -28503,7 +28503,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,203.4,672.3);
 
 	this.shape_36 = new cjs.Shape();
 	this.shape_36.graphics.f("#F7482B").s().p("AhbDuIAAnbIC3AAIAAHbg");
-	this.shape_36.setTransform(249.5494,24.7417,1.0395,1.0396);
+	this.shape_36.setTransform(249.5298,24.7406,1.0395,1.0395);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_36},{t:this.shape_35},{t:this.shape_34},{t:this.shape_33},{t:this.shape_32},{t:this.shape_31},{t:this.shape_30},{t:this.shape_29},{t:this.shape_28},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.shape_27},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.shape_26},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.shape_25},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.shape_24},{t:this.instance_64},{t:this.instance_63},{t:this.shape_23},{t:this.instance_62},{t:this.instance_61},{t:this.instance_60},{t:this.shape_22},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.shape_21},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.shape_20},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.shape_19},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.shape_18},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.shape_17},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.shape_16},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.shape_15},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.shape_14},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.shape_13},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.shape_12},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.shape_11},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.shape_10},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.shape_9},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.shape_8},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.shape_7},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.shape_6},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.shape_5},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.shape_4},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.shape_3},{t:this.shape_2},{t:this.instance_1},{t:this.shape_1},{t:this.instance},{t:this.shape},{t:this.cp_chooseName},{t:this.cp_pnum}]}).wait(1));
 
@@ -37891,15 +37891,9 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 			// יצירת שלט
 			var sign = new lib.cp_name();
 			sign.x = stageW / 2;
-			
-			var cp_pnumTxt = new createjs.Text();
-			cp_pnumTxt.font = "38px Rubik Medium";
-			cp_pnumTxt.text = "שחקן " + (currentPlayer + 1).toString();
-			cp_pnumTxt.color = "#8e6a06";
-			sign.addChild(cp_pnumTxt);
-			//sign.cp_pnum.text = "שחקן " + (currentPlayer + 1).toString();
-			//sign.cp_pnum.font = "38px Rubik Medium";
-			//sign.cp_pnum.color = "#8e6a06";
+			sign.cp_pnum.text = "שחקן " + (currentPlayer + 1).toString();
+			sign.cp_pnum.font = "600 38px Rubik";
+			sign.cp_pnum.color = "#8e6a06";
 			sign.cp_chooseName.font = "29px Rubik";
 			gameGraphic.addChild(sign);
 			sign.name = "signCp-name1";
@@ -39552,12 +39546,12 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/combo_withFunctions_atlas_.png?1582301859082", id:"combo_withFunctions_atlas_"},
-		{src:"sounds/slotMachinemp3.mp3?1582301863086", id:"slotMachinemp3"},
-		{src:"https://code.jquery.com/jquery-2.2.4.min.js?1582301863086", id:"lib/jquery-2.2.4.min.js"},
-		{src:"components/sdk/anwidget.js?1582301863086", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1582301863086", id:"an.TextInput"},
-		{src:"components/ui/src/combobox.js?1582301863086", id:"an.ComboBox"}
+		{src:"images/combo_withFunctions_atlas_.png", id:"combo_withFunctions_atlas_"},
+		{src:"sounds/slotMachinemp3.mp3", id:"slotMachinemp3"},
+		{src:"https://code.jquery.com/jquery-2.2.4.min.js", id:"lib/jquery-2.2.4.min.js"},
+		{src:"components/sdk/anwidget.js", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js", id:"an.TextInput"},
+		{src:"components/ui/src/combobox.js", id:"an.ComboBox"}
 	],
 	preloads: []
 };
