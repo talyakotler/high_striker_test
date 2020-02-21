@@ -37919,7 +37919,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 			btn.y = 325;
 			gameGraphic.addChild(btn);
 			btn.btn_cpTxt.text = "בחר דמות  >";
-			btn.btn_cpTxt.font = "26px Rubik Medium";
+			btn.btn_cpTxt.font = "600 26px Rubik";
 			btn.alpha = 0.3;
 			btn.name = "btnCp1";
 		
@@ -37964,7 +37964,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 			var sign = new lib.cp_char();
 			sign.x = stageW / 2;
 			sign.cp_pname.text = "שחקן " + (currentPlayer + 1).toString() + " - " + players[0][0];
-			sign.cp_pname.font = "38px Rubik Medium";
+			sign.cp_pname.font = "600 38px Rubik";
 			sign.cp_pname.color = "#8e6a06";
 			sign.cp_chooseChar.font = "29px Rubik";
 			sign.name = "signCp-char1";
@@ -37976,7 +37976,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 			btn.y = 325;
 			gameGraphic.addChild(btn);
 			btn.btn_cpTxt.text = "לשחקן הבא  >";
-			btn.btn_cpTxt.font = "26px Rubik Medium";
+			btn.btn_cpTxt.font = "600 26px Rubik";
 			btn.alpha = 0.3;
 			btn.name = "btnCp2";
 		
@@ -38015,7 +38015,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 			var sign = new lib.cp_name();
 			sign.x = stageW / 2;
 			sign.cp_pnum.text = "שחקן " + (currentPlayer + 1).toString();
-			sign.cp_pnum.font = "38px Rubik Medium";
+			sign.cp_pnum.font = "600 38px Rubik";
 			sign.cp_pnum.color = "#8e6a06";
 			sign.cp_chooseName.font = "29px Rubik";
 			gameGraphic.addChild(sign);
@@ -38042,7 +38042,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 			btn.y = 325;
 			gameGraphic.addChild(btn);
 			btn.btn_cpTxt.text = "בחר דמות  >";
-			btn.btn_cpTxt.font = "26px Rubik Medium";
+			btn.btn_cpTxt.font = "600 26px Rubik";
 			btn.alpha = 0.3;
 			btn.name = "btnCp3";
 		
@@ -38088,7 +38088,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 			var sign = new lib.cp_char();
 			sign.x = stageW / 2;
 			sign.cp_pname.text = "שחקן " + (currentPlayer + 1).toString() + " - " + players[1][0];
-			sign.cp_pname.font = "38px Rubik Medium";
+			sign.cp_pname.font = "600 38px Rubik";
 			sign.cp_pname.color = "#8e6a06";
 			sign.cp_chooseChar.font = "29px Rubik";
 			sign.name = "signCp-char2";
@@ -38099,7 +38099,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 			btn.x = stageW / 2;
 			btn.y = 325;
 			btn.btn_cpTxt.text = "המשך  >";
-			btn.btn_cpTxt.font = "26px Rubik Medium";
+			btn.btn_cpTxt.font = "600 26px Rubik";
 			btn.alpha = 0.3;
 			btn.name = "btnCp4";
 			gameGraphic.addChild(btn);
@@ -38343,7 +38343,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 			btn.x = stageW / 2;
 			btn.y = 120;
 			btn.btnTxt_rd1.text = "הגרל";
-			btn.btnTxt_rd1.font = "30px Rubik Medium";
+			btn.btnTxt_rd1.font = "600 30px Rubik";
 			btn.btnTxt_rd1.color = "#8e6a06";
 			btn.cursor = "pointer";
 			btn.name = "btn_rd";
@@ -38444,7 +38444,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 			btn.x = stageW / 2;
 			btn.y = 120;
 			btn.btnTxt_rd2.text = "התחלת משחק";
-			btn.btnTxt_rd2.font = "25px Rubik Medium";
+			btn.btnTxt_rd2.font = "600 25px Rubik";
 			btn.btnTxt_rd2.color = "#8e6a06";
 			btn.cursor = "pointer";
 			btn.name = "btn_rd";
@@ -39294,7 +39294,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 		
 			//כתיבה לתוך תיבת הטקסט של נושא המשחק ששוחק
 			sign.rs_whatGameTxt.text = 'סיימתם את המשחק "' + gameSubject + '"';
-			sign.rs_whatGameTxt.font = "24px Rubik Medium";
+			sign.rs_whatGameTxt.font = "600 22px Rubik";
 			sign.rs_whatGameTxt.color = "#8e6a06";
 		
 			//יצירת כפתור שחק שוב
@@ -39328,7 +39328,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 		
 				//הדפסה מי ניצח
 				sign.rs_whoWonTxt.text = "הצלחתם להגיע לגונג!";
-				sign.rs_whoWonTxt.font = "32px Rubik Medium";
+				sign.rs_whoWonTxt.font = "600 32px Rubik";
 				sign.rs_whoWonTxt.color = "#8e6a06";
 		
 				//יצירת המד של השחקן הראשון
@@ -39372,7 +39372,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 		
 				//הדפסה מי ניצח
 				sign.rs_whoWonTxt.text = players[0][0] + " הצליח/ה להגיע לגונג!";
-				sign.rs_whoWonTxt.font = "32px Rubik Medium";
+				sign.rs_whoWonTxt.font = "600 32px Rubik";
 				sign.rs_whoWonTxt.color = "#8e6a06";
 		
 				//יצירת המד של השחקן הראשון
@@ -39418,7 +39418,7 @@ p.nominalBounds = new cjs.Rectangle(-747.1,-747.3,1489.2,1489.3);
 		
 				//הדפסה מי ניצח
 				sign.rs_whoWonTxt.text = players[1][0] + " הצליח/ה להגיע לגונג!";
-				sign.rs_whoWonTxt.font = "32px Rubik Medium";
+				sign.rs_whoWonTxt.font = "600 32px Rubik";
 				sign.rs_whoWonTxt.color = "#8e6a06";
 		
 				//יצירת המד של השחקן הראשון הלא פעיל
